@@ -1,0 +1,15 @@
+const mysql = require('mysql');
+require('dotenv').config();
+
+const mysql = new mysql(
+  process.env.DB_NAME,
+  process.env.DB_USER,
+  process.env.DB_PASSWORD,
+  {
+    host: 'localhost',
+    dialect: 'mysql',
+    port: 3001
+  }
+);
+
+module.exports = mysql;
