@@ -1,6 +1,15 @@
 # Employee-Tracker
 This is a command line application that allows a user to manage information on employees within a company. The application connects to a database housed in MySQL that contains three tables with information on departments, roles, and employees within the company. This System allows a user to add, view, and modify information about employees of a company.
 
+## Table of contents
+* [User Story](#user-story)
+* [Acceptance Criteria](#Acceptance-Criteria)
+* [Screenshots](#Screenshots)
+* [Video Example](#video-example)
+* [Getting Started](#Getting-Started)
+* [Technologies Use](#Technologies-Use)
+* [Contributor](#Contributor)
+
 ## User Story
 
 ```md
@@ -52,3 +61,8 @@ You’ll need to use the [MySQL2 package](https://www.npmjs.com/package/mysql2) 
 * Uses the [MySQL2 package](https://www.npmjs.com/package/mysql2) to connect to a MySQL database.
 
 * Uses the [console.table package](https://www.npmjs.com/package/console.table) to print MySQL rows to the console.
+
+
+## Contributor
+Sorna Kesavan ©2022 All Rights Reserved.
+- - -
