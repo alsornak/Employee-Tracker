@@ -5,7 +5,7 @@ This is a command line application that allows a user to manage information on e
 * [User Story](#user-story)
 * [Acceptance Criteria](#Acceptance-Criteria)
 * [Screenshots](#Screenshots)
-* [Video Example](#video-example)
+* [Mock-Up](#Mock-Up)
 * [Getting Started](#Getting-Started)
 * [Technologies Use](#Technologies-Use)
 * [Contributor](#Contributor)
