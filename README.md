@@ -47,7 +47,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Mock-Up
 
 The following video shows an example of the application being used from the command line: 
-### <a href="https://drive.google.com/file/d/1Q5z3md3llWnO1OOJzIlrVLNlQ--HzRWs/preview">Video Link</a>
+### <a href="https://drive.google.com/file/d/1nnaKV6_RJRlpyv89uPfjIYw5bLluoeDK/view?usp=sharing">Video Link</a>
 
 
 ## Getting Started
