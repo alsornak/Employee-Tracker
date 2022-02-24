@@ -1,5 +1,5 @@
 # Employee-Tracker
-This is a command line application that allows a user to manage information on employees within a company. The application connects to a database housed in MySQL that contains three tables with information on departments, roles, and employees within the company. This Content Management System allows a user to add, view, and modify information about employees of a company.
+This is a command line application that allows a user to manage information on employees within a company. The application connects to a database housed in MySQL that contains three tables with information on departments, roles, and employees within the company. This System allows a user to add, view, and modify information about employees of a company.
 
 ## User Story
 
