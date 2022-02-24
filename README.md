@@ -32,7 +32,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Screenshots
-![](public/assets/image.png)
+![](Assets/image.png)
 
 ## Mock-Up
 
