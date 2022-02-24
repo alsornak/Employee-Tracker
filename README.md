@@ -34,10 +34,11 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Screenshots
 ![](Assets/image.png)
 
+
 ## Mock-Up
 
 The following video shows an example of the application being used from the command line:
-https://drive.google.com/file/d/1Q5z3md3llWnO1OOJzIlrVLNlQ--HzRWs/preview
+<a href="https://drive.google.com/file/d/1Q5z3md3llWnO1OOJzIlrVLNlQ--HzRWs/preview">Video Link</a>
 
 
 ## Getting Started
